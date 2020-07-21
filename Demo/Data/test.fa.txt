@@ -1,0 +1,6 @@
+>Name-1
+CAGGGCAUCGAUGCUAGCAGGGAUAUUUGGGGCUUGACUGGGCAUUGCGGAUCGUACGAU
+.(.(((..(((((((((((((...........)))).)).)))))))..).)).).....
+>Name-2
+AUCAGAAACUUUAAUUCCGGAGUAGGUACAGAUAUCGCCCACCGGAUAGCUCGCUAGGACUCUCUGCGCAACUUCCACUAAACGAUCGAAAAACCGCGUAUUGACACCCGCUGUGAGACCCGAAUGUACUCGGAUGCGAUGGGCAGCUCAGUCUCCCACGACCUACCGACACACGGGCGUGUAGAUUUACGAUCAUACGUGGUGGAUAUGCGCACGGACAGGCACUAGUGAGGAGAAAGGGUUGUCGUGCACGACCAUCGGAUUUUAGGGUAAAACCCUCUACGAGCAGAGUUCUAUAGC
+...((((.((((...(((((....((((....)))).....)))))...((((((((..((((.((((((...(((((((...((((((((...((((........((((.((((....((((......))))...((.((((.((......)))))))).........))))))))))))....))).))))).....)))))))..)))))).)))...)..)))))))).......((((((.....)))))).(((......(((((...)))))...)))..)))))))).....
