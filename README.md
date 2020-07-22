@@ -1,6 +1,6 @@
 # RNA structure library design software (FOREST.py)
 
-The software for the extraction of single and multi-terminal loops and design an RNA structure library for FOREST (Folded RNA Element Profiling with Structure library)
+The software for the extraction of single and multi-terminal loops and design of an RNA structure library for FOREST (Folded RNA Element Profiling with Structure library)
 
 ![KomatsuKR-2020-FOREST-Github](https://user-images.githubusercontent.com/51256615/88106252-2578ad80-cbe0-11ea-9b77-20b7bb0cd657.png)
 
