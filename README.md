@@ -124,7 +124,7 @@ sys	0m0.055s
 ```
 
 # Examples
-## (1) TerminalMotifExtraction. The length limitation is set to 120 nt.
+## (1) TerminalMotifExtraction. The length limitation is set to 134 nt.
 
 `python FOREST.py test.fa.txt -L 134`
 
