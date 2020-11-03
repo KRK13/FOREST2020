@@ -253,7 +253,7 @@ for line in f:
             tokens3 = line.split(' ')
             structure = tokens3[0]
             structure = structure.replace("&",".")
-            stru = structure.replace("]",".").replace("[",".")replace("{",".").replace("}",".") #Remove the PseudoKnots.
+            stru = structure.replace("]",".").replace("[",".").replace("{",".").replace("}",".") #Remove the PseudoKnots.
             extractedmotif_info = terminalmotif_extraction(name,stru,seq)
             outdict.update(extractedmotif_info)
 f.close()
